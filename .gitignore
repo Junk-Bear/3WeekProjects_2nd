@@ -1,0 +1,6 @@
+﻿.vs
+x64
+Project2.sln
+Project2/Project2.vcxproj.user
+*.vcxproj
+Project2/Project2.vcxproj.filters
